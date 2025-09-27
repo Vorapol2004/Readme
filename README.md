@@ -8,6 +8,7 @@
 📍 Focused on 
 💡 Passionate about 
 </p>
+
 ---
 <H2>🧑‍💻 About Me  </H2>
 
