@@ -1,12 +1,23 @@
-#👋 Hi, I'm Supavate
+
+<H2>👋 Hi, I'm Vorapol<br>
+
+<p>
+
 🚀 Backend-Oriented Computer Science Graduate
 📍 Focused on 
 💡 Passionate about 
-```bash
 
+---
+<H2>🧑‍💻 About Me  </H2>
 
-🧑‍💻 About Me
 🎓 Bachelor's in Computer Science (GPA 3.31/4.0).
-🛠️ Skilled in designing and developing backend systems with Spring Boot, REST APIs, and SQL/NoSQL databases.
-🌱 Experienced with microservice architectures, authentication (JWT, OAuth2), and data streaming with Apache Kafka.
+🛠️ Skilled in 
+🌱 Experienced with 
 🤝 Strong in collaboration, communication, and problem-solving, with a positive and adaptable mindset.
+
+
+
+
+
+
+
