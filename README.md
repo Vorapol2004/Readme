@@ -1,12 +1,13 @@
 
-<H2>👋 Hi, I'm Vorapol<br>
+<H2>👋 Hi, I'm Vorapol</H2>
+<br>
 
 <p>
 
 🚀 Backend-Oriented Computer Science Graduate
 📍 Focused on 
 💡 Passionate about 
-
+</p>
 ---
 <H2>🧑‍💻 About Me  </H2>
 
