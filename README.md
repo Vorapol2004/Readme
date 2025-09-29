@@ -44,7 +44,7 @@
    <li> Developed a platform where users can vote on food categories and get randomized restaurant options.<br>
     Integrated <strong>Google API</strong> for restaurant data.</li>
     <br>
-<strong>Tech:</strong> Next.js, Spring Boot, MongoDB, Google API
+<li> <strong>Tech:</strong> Next.js, Spring Boot, MongoDB, Google API </li>
 </p>
 
 <hr>
