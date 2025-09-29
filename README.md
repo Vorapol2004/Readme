@@ -51,7 +51,7 @@
 
 <h2>📫 Connect with Me</h2>
 <ul>
-  <li>GitHub: <a href="https://github.com/kimminoto">kimminoto</a></li>
+  <li>GitHub: <a href="https://github.com/Vorapol2004">kimminoto</a></li>
   <li>Email: <a href="mailto:vorapolanananusit@gmail.com">vorapolanananusit@gmail.com</a></li>
   <li>LinkedIn: (แนะนำให้สร้าง LinkedIn ถ้ายังไม่มีครับ 👍)</li>
 </ul>
