@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 About Me</h2>
 <ul>
-  <li>🎓 Bachelor’s in <strong>Computer Science</strong> (University of the Thai Chamber of Commerce)</li>
+  <li>🎓 Bachelor’s in <strong>Computer Science</strong> GPA 3.31 </li>
   <li>🛠️ Skilled in <strong>Backend Development</strong> with Spring Boot, REST APIs, and MongoDB/MySQL</li>
   <li>🌱 Experienced with <strong>Frontend Development</strong> using Next.js & React</li>
   <li>🔎 Worked on academic projects such as <em>IT Asset Management System</em> and <em>Gin Arai Dee</em> (Food Recommendation Platform using Google API)</li>
