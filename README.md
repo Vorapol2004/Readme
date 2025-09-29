@@ -1,28 +1,46 @@
 
-<H2>👋 Hi, I'm Vorapol</H2>
+# 👋 Hi, I'm Vorapol Anananusit
 
-<p>
+🎓 Computer Science student at University of the Thai Chamber of Commerce  
+💻 Passionate about **Backend Development, RESTful API, and Full Stack Development**  
+🚀 Experienced in building **web and mobile applications** through academic and personal projects  
+🌱 Currently learning **Spring Boot, Next.js, and cloud technologies**  
+📌 Interested in **Software Testing, Backend Systems, and Database Design**
 
-🚀 Backend-Oriented Computer Science Graduate
-<br>
-📍 Focused on 
-<br>
-💡 Passionate about
-<br>
-</p>
+----------
 
----
-<H2>🧑‍💻 About Me  </H2>
+## 🛠️ Tech Stack
 
-🎓 Bachelor's in Computer Science (GPA 3.31/4.0).
-<br>
-🛠️ Skilled in
-<br>
-🌱 Experienced with
-<br>
-🤝 Strong in collaboration, communication, and problem-solving, with a positive and adaptable mindset.
-<br>
+**Languages:** Java, JavaScript, SQL, HTML, CSS, Kotlin  
+**Frontend:** Next.js, React  
+**Backend:** Spring Boot, Express.js, RESTful API  
+**Database:** MySQL, MongoDB  
+**Tools & Technologies:** Git/GitHub, Google API, Postman
 
+----------
+
+## 📂 Projects
+
+-   **IT Asset Management System** (4th Year Dissertation Project)
+    
+    -   Developed a system for tracking borrowing transactions, asset information, and usage history
+        
+    -   Tech: Next.js, Spring Boot, SQL
+        
+-   **Gin Arai Dee** (3rd Year Project)
+    
+    -   Built a website to help users decide what to eat using randomization and Google API integration
+        
+    -   Tech: Next.js, Spring Boot, MongoDB, Google API
+        
+
+----------
+
+## 📫 Connect with me
+
+-   GitHub: [github.com/kimminoto](https://github.com/kimminoto)
+    
+-   Email: vorapolanananusit@gmail.com
 
 
 
