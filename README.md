@@ -39,9 +39,9 @@ Built a web application to manage IT assets, track borrowing transactions, and u
 </p>
 
 <h3>🍽️ Gin Arai Dee (3rd Year Project)</h3>
-<p>
-Developed a platform where users can vote on food categories and get randomized restaurant options.<br>
-Integrated <strong>Google API</strong> for restaurant data.<br>
+  <p>
+    Developed a platform where users can vote on food categories and get randomized restaurant options.<br>
+    Integrated <strong>Google API</strong> for restaurant data.<br>
 <strong>Tech:</strong> Next.js, Spring Boot, MongoDB, Google API
 </p>
 
