@@ -36,7 +36,7 @@
 
 ----------
 
-## 📫 Connect me
+## 📫 Contact me
 
 -   GitHub: [github.com/kimminoto](https://github.com/kimminoto)
     
