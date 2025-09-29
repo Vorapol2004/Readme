@@ -1,8 +1,10 @@
 <h1>👋 Hi, I'm Vorapol</h1>
 
 <p>
-🚀 <strong>Computer Science Student | Backend & Full Stack Developer</strong><br>
-📌 Interested in building <strong>RESTful APIs, scalable backend systems, and modern web applications</strong><br>
+🚀 <strong>Computer Science Student | Backend & Full Stack Developer</strong>
+  <br>
+📌 Interested in building <strong>RESTful APIs, scalable backend systems, and modern web applications</strong>
+  <br>
 💡 Passionate about <strong>problem-solving, continuous learning, and innovative software development</strong>
 </p>
 
@@ -49,7 +51,7 @@
 
 <hr>
 
-<h2>📫 Connect with Me</h2>
+<h2>📫 Contact Me</h2>
 <ul>
   <li>GitHub: <a href="https://github.com/Vorapol2004">Vorapol2004</a></li>
   <li>Email: <a href="mailto:vorapolanananusit@gmail.com">vorapolanananusit@gmail.com</a></li>
