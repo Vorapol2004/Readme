@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Vorapol</h1>
 
 <p>
-🚀 <strong>Computer Science Student | Backend & Full Stack Developer</strong>
+🚀 <strong>Computer Science Student | Backend & Frontend Developer</strong>
   <br>
 📌 Interested in building <strong>RESTful APIs, scalable backend systems, and modern web applications</strong>
   <br>
