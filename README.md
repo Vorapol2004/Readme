@@ -34,14 +34,16 @@
 
 <h3>🖥️ IT Asset Management System (4th Year Dissertation Project)</h3>
 <p>
-Built a web application to manage IT assets, track borrowing transactions, and usage history.<br>
-<strong>Tech:</strong> Next.js, Spring Boot, SQL
+<li>Built a web application to manage IT assets, track borrowing transactions, and usage history. </li>
+<br>
+<li><strong>Tech:</strong> Next.js, Spring Boot, SQL </li>
 </p>
 
 <h3>🍽️ Gin Arai Dee (3rd Year Project)</h3>
   <p>
-    Developed a platform where users can vote on food categories and get randomized restaurant options.<br>
-    Integrated <strong>Google API</strong> for restaurant data.<br>
+   <li> Developed a platform where users can vote on food categories and get randomized restaurant options.<br>
+    Integrated <strong>Google API</strong> for restaurant data.</li>
+    <br>
 <strong>Tech:</strong> Next.js, Spring Boot, MongoDB, Google API
 </p>
 
